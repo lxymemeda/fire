@@ -1,1 +1,3 @@
 # fire
+public void test(){
+}
